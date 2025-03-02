@@ -1,27 +1,97 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Padala Hemanth Subbi Reddy
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Padala Hemanth Subbi Reddy
 ==================================================================================================================================================
 
-AI Researcher
--------------------------
+## AI Researcher | Robotics Enthusiast | Embedded Systems Developer
 
-I have been Working on embedded system and robotics since last 5 years, currently pursuing bachelors in Electronics and computer engineering
+🚀 Passionate about **Artificial Intelligence, Robotics, and Embedded Systems**, with a strong background in **Computer Vision, Deep Learning, and Autonomous Systems**. Currently, I am pursuing my **BTech in Electronics and Computer Engineering at VIT Chennai**.
 
-* 🌍  I'm based in Chennai, India
-* ✉️  You can contact me at [hemanth.padala@gmail.com](mailto:hemanth.padala@gmail.com)
-* 🧠  I'm learning Machine learning and VLSI
-* 🤝  I'm open to collaborating on anything related to embedded systems and Autonomous Robots
+---
 
-### Skills
+## 🌟 About Me  
+- 🌍 Based in **Chennai, India**  
+- 🎓 **BTech Student | Electronics & Computer Engineering | VIT Chennai**  
+- 🏆 Selected for the **Samsung PRISM program**  
+- 🤖 Experienced in **Embedded Systems, Robotics, and AI** for **5+ years**  
+- 🧠 Learning **Machine Learning, VLSI, and Graph Neural Networks (GNNs)**  
+- 🤝 Open to **collaborating on AI, Embedded Systems, and Robotics projects**  
+- 💬 Ask me about **Deep Learning, Object Detection, Image Processing, and Embedded AI**  
+- 📫 Contact me: **[hemanth.padala@gmail.com](mailto:hemanth.padala@gmail.com)**  
 
+---
 
+## 🔭 Current Projects  
+### 🏆 **Computer Vision & Deep Learning**  
+- **Comparative Analysis of YOLOv8 Models for Underwater Object Detection**  
+- **Vision Transformers (Swin Transformer, T-UNet) for Change Detection**  
+- **Facial Recognition & Engagement Detection on Jetson Nano**  
+
+### 🛠 **Embedded Systems & Robotics**  
+- **Autonomous Robots using Raspberry Pi & Arduino**  
+- **Speech Super-Resolution for ASR (Automatic Speech Recognition)**  
+- **Pulse Oximeter (MAX30100) with OLED Display on Arduino Uno**  
+
+### 🎯 **Other Research Areas**  
+- **Point Cloud Segmentation & Graph Neural Networks (GNNs)**  
+- **Sound Source Localization using Multiple Microphones**  
+- **Low-Frequency Audio Enhancement for Speech Recognition**  
+
+---
+
+## ⚡ Tech Stack & Skills  
+
+### **Programming Languages**  
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+</p>  
+
+### **Machine Learning & Deep Learning**  
+- **YOLO (v5, v6, v7, v8) | Vision Transformers | GNNs**  
+- **TensorFlow | PyTorch | OpenCV**  
+- **Speech Recognition (LibriSpeech, ASR, Google Speech API)**  
+
+### **Embedded & IoT**  
+- **Jetson Nano | Raspberry Pi | Arduino | MAX30100 Sensor**  
+- **PCB Design | VLSI | FPGA Programming**  
+
+### **Tools & Platforms**  
+- **Linux | Jupyter Notebook | Google Colab | Docker**  
+- **Git | GitHub | VS Code | MATLAB**  
+- **ROS (Robot Operating System) | Gazebo**  
+
+---
+
+## 🔗 Socials  
+<p align="left">
+<a href="https://www.github.com/hemanthpadala03" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/hemanth-padala-422489214/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/hemanthpadala" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
+---
 
-### Socials
+## 🏆 GitHub Stats  
 
-<p align="left"> <a href="https://www.github.com/hemanthpadala03" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/hemanthpadala" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hemanth-padala-422489214/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+<a href="http://www.github.com/hemanthpadala03"><img src="https://github-readme-stats.vercel.app/api?username=hemanthpadala03&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" /></a>
+</p>
+
+<p align="center">
+<a href="http://www.github.com/hemanthpadala03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthpadala03&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/hemanthpadala03"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthpadala03&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+</p>
+
+---
+
+## 🎯 Fun Facts  
+- 🔬 I enjoy experimenting with **AI + IoT applications**.  
+- 🎮 I love **gaming, hackathons, and building robots**.  
+- 🌟 Always open to **new research collaborations*
 
 ### Badges
 
